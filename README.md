@@ -23,4 +23,6 @@ Lvl 2: No Specs, 5 Geld
 Lvl 3: Platz fuer einen Gegenstand deiner Wahl 10 Geld
 Lvl 4: Tool Nutzung wird moeglich 10 Geld
 Lvl 5: 1 Minute mehr Zeit pro Einbruch
+Lvl 6: Vom Karton zur Muelltonne 20 Geld
+
 
