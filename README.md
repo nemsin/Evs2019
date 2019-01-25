@@ -9,7 +9,18 @@ Marktplatz: Dort werden die Gestohlenen Dinge verkauft
 
 Papkarton lvl 1 als start
 
-Vogelperspektive
+Vogelperspektive bei Map ansicht
+Sicht IM Haus als Bild.
+
+Häuser:
+Cat 1: Dixie, Karton (1Raum)
+Cat 2: Wohnwagen (2 Räume)
+Cat 3: Häuser (3 Räume)
+Cat 4: Villa (4 Räume)
+
+
+
+
 
 Bei Einbruch: Laermleiste + Countdown
 Bei Erwischtwerden: You Died Screen + Geldstrafe
