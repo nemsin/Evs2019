@@ -6,7 +6,7 @@ const path = require('path');
 module.exports = {
 
     entry: {
-        game: ['./src/main.js'],
+        game: ['./src/main1.js'],
     },
     resolve: {
         modules: ['src', 'assets', 'node_modules'],

@@ -19,7 +19,7 @@ export default function(first_scene) {
                 .setBaseURL('media/')
                 .atlas('tex', 'tex.png', 'tex.json')
 
-            this.load.image('worldmap', 'assets/map.jpg');
+            this.load.image('worldmap', 'assets/map.jpeg');
             this.load.image('house', 'assets/house.jpg');
 
             // Display loading progress

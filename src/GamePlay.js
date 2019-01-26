@@ -12,7 +12,7 @@ export default new Phaser.Class({
         //this.cameras.main.setScroll(-this.game.config.width / 2, -this.game.config.height / 2)
 
         this.add.image(0, 0, 'tex', 'logo')
-        this.add.image(1000, 500, 'assets/map.jpeg)
+        this.add.image(1000, 500, 'assets/map.jpeg')
         this.add.image(450, 376, 'house')
 
 
