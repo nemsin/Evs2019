@@ -19,6 +19,9 @@ export default function(first_scene) {
                 .setBaseURL('media/')
                 .atlas('tex', 'tex.png', 'tex.json')
 
+            this.load.image('worldmap', 'assets/map.jpg');
+            this.load.image('house', 'assets/house.jpg');
+
             // Display loading progress
             var game_config = this.game.config
             var width = game_config.width
