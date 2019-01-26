@@ -1,7 +1,5 @@
 import 'phaser'
 
-import { show_all as scale_mode } from './game_scales'
-
 import Preloader from './Preloader'
 import GamePlay from './GamePlay'
 
